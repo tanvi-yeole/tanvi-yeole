@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Frontend Web Developer</p>
+<p align="left">I am a Full Stack Web Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently in Third Year Computer Engineering<br>🎯 Focusing On Full Stack Development<br>🧑🏻‍💻 Currently Learning ReactJS<br>🎨  Enjoy Sketching and Painting</p>
+<p align="left">📚 Recently completed my Bachelors degree in Computer Engineering<br>🎯 Focusing On Full Stack Development<br>🧑🏻‍💻 Currently Learning NextJS<br>🎨  Enjoy Sketching, Painting and Travelling</p>
 
 ###
 
